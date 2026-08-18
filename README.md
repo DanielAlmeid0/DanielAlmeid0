@@ -19,28 +19,29 @@
 
 <br>
 
-<img align="left" alt="hand-gif" width="220" src="./mão.jpg" />
+<img align="left" alt="Computer Desk" width="480" src="https://github.com/DanielAlmeid0/DanielAlmeid0/blob/main/computergif.gif?raw=true" style="padding-right: 20px;" />
 
 <!-- About Me -->
 <h3 align="left">💫 About Me</h3>
-<p>
-  🎓 Information Systems student.<br>
-  ☕ Learning Java and Object-Oriented Programming.<br>
-  🐧 Fedora / Linux enthusiast.<br>
-  💻 Interested in software development and backend.<br>
-  🗄️ Learning databases and PostgreSQL.<br>
-  🧠 Always learning something new.<br>
+<p align="left">
+  <big>
+    🎓 Information Systems student.<br>
+    ☕ Learning Java and Object-Oriented Programming.<br>
+    🐧 Fedora / Linux enthusiast.<br>
+    💻 Interested in software development and backend.<br>
+    🗄️ Learning databases and PostgreSQL.<br>
+    🧠 Always learning something new.
+  </big>
 </p>
 
 <h3 align="left">🧲 Drop me a line:</h3>
-<div align="left">
-  <a href="mailto:SEU-EMAIL@gmail.com"><img width="35px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank"><img width="35px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" /></a>
-  <a href="https://github.com/DanielAlmeid0" target="_blank"><img width="35px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" /></a>
-</div>
+<p align="left">
+  <a href="mailto:danielalmeida8871@gmail.com"><img width="35px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/daniel-almeida-santos-4a4089246/" target="_blank"><img width="35px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
+  <a href="https://github.com/DanielAlmeid0" target="_blank"><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" /></a>
+</p>
 
-<br clear="left">
-<br>
+<br clear="left"/>
 
 <!-- Languages & Tools -->
 <h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
