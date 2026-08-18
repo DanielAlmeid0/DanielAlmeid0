@@ -44,19 +44,20 @@
 <br clear="left"/>
 
 <!-- Languages & Tools -->
-<h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,postgres,git,github,vscode,idea" /><br>
-  <img src="https://skillicons.dev/icons?i=notion,bash,linux" /><br>
-</div>
+<br><br>
 
-<br>
+<!-- Imagem da Mão e Languages & Tools -->
+<img align="left" alt="Imagem da Mão" width="350" hspace="30" src="https://github.com/DanielAlmeid0/DanielAlmeid0/blob/main/0eee4430-0b43-43c1-8e29-b3fd315619d4.png?raw=true" />
 
-<div align="center">
-  <img src="./mundo.jpg" width="45%" alt="divider"/>
-</div>
+<h3 align="left">📚 Languages & Tools I Have Placed My Hands On</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,postgres,git,github,vscode,idea" /><br><br>
+  <img src="https://skillicons.dev/icons?i=notion,bash,linux" />
+</p>
 
-<br>
+<br clear="left"/>
+<br><br>
+
 
 <!-- Tech Stack -->
 <h3 align="center">💻 Tech Stack</h3>
@@ -77,16 +78,16 @@
 
 <br>
 
-<!-- GitHub Status -->
-<h3 align="center">🌱 GitHub Status</h3>
-<div align="center">
-   <img width="398" src="https://github-readme-stats.vercel.app/api?username=DanielAlmeid0&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=8" />
-   <img width="398" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAlmeid0&layout=compact&theme=tokyonight&border_radius=8" />
-  <br>
-  <img width="420" src="https://streak-stats.demolab.com/?user=DanielAlmeid0&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</div>
+<br><br>
 
-<br>
+<!-- GitHub Stats -->
+<h3 align="center">⚡ GitHub Status</h3>
+<p align="center">
+  <img height="180" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=DanielAlmeid0&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DanielAlmeid0&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" />
+</p>
+
+<br><br>
 
 <!-- Recent activity / snake -->
 <h3 align="center">🐍 Recent Activity</h3>
@@ -96,16 +97,6 @@
 
 <br>
 
-<!-- Interesting Repositories -->
-<div align="center">
-  <h3>⭐️ Interesting Repositories</h3>
-  <p align="center">
-    <a href="https://github.com/DanielAlmeid0?tab=repositories"><img src="https://gh-card.dev/repos/DanielAlmeid0/REPO-1.svg" width="400"></a>
-    <a href="https://github.com/DanielAlmeid0?tab=repositories"><img src="https://gh-card.dev/repos/DanielAlmeid0/REPO-2.svg" width="400"></a>
-  </p>
-</div>
-
-<br>
 
 <!-- Ending -->
 <div align="center">
