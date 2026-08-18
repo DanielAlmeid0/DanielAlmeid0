@@ -1,6 +1,6 @@
 <!-- MasterHead -->
 <a href="./banner.jpg">
-  <img width="100%" src="./banner.jpg" alt="Banner"/>
+  <img width="100%" src="https://github.com/DanielAlmeid0/DanielAlmeid0/blob/main/bannergif.gif?raw=true" alt="Banner"/>
 </a>
 
 <div align="center">
