@@ -90,8 +90,8 @@
 <!-- GitHub Stats -->
 <h3 align="center">⚡ GitHub Status</h3>
 <p align="center">
-  <img height="180" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=DanielAlmeid0&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DanielAlmeid0&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" />
+  <img height="180" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=DanielAlmeid0&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=00ff00&ring_color=00ff00" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DanielAlmeid0&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00" alt="Linguagens mais usadas" />
 </p>
 
 <br><br>
