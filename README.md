@@ -19,7 +19,7 @@
 
 <br>
 
-<img align="left" alt="Computer Desk" width="480" src="https://github.com/DanielAlmeid0/DanielAlmeid0/blob/main/computergif.gif?raw=true" style="padding-right: 20px;" />
+<img align="left" alt="Computer Desk Cyberpunk" width="480" src="https://github.com/DanielAlmeid0/DanielAlmeid0/blob/main/35d554f31bd87bf3f5097830af38332b.gif?raw=true" style="padding-right: 20px;" />
 
 <!-- About Me -->
 <h3 align="left">💫 About Me</h3>
