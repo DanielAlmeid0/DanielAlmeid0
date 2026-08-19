@@ -99,7 +99,7 @@
 
 <!-- Ending -->
 <div align="center">
-  <img src="./Olho.jpg" width="90" alt="Ending" />
+  <img width="100%" src="https://github.com/DanielAlmeid0/DanielAlmeid0/blob/main/Matrix.gif?raw=true" alt="Matrix Footer Banner" />
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2" />
