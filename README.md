@@ -1,6 +1,6 @@
 <!-- MasterHead -->
-<a href="./banner.jpg">
-  <img width="100%" src="https://github.com/DanielAlmeid0/DanielAlmeid0/blob/main/bannergif.gif?raw=true" alt="Banner"/>
+<a href="https://github.com/DanielAlmeid0/DanielAlmeid0/blob/main/bannerverde.gif?raw=true" target="_blank">
+  <img width="100%" src="https://github.com/DanielAlmeid0/DanielAlmeid0/blob/main/bannerverde.gif?raw=true" alt="Banner Cyberpunk Verde"/>
 </a>
 
 <div align="center">
