@@ -90,12 +90,11 @@
 <br><br>
 
 <!-- Recent activity / snake -->
-<h3 align="center">🐍 Recent Activity</h3>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DanielAlmeid0/DanielAlmeid0/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+  <img src="https://raw.githubusercontent.com/DanielAlmeid0/DanielAlmeid0/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
-<br>
+<br><br>
 
 
 <!-- Ending -->
