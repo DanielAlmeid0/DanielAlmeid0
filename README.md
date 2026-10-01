@@ -64,6 +64,19 @@ Sou apaixonado por tecnologia e estou sempre aprendendo coisas novas.
 
 <br clear="left"/>
 
+  <img
+    align="left"
+    alt="Top Linguagens"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAlmeid0&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+  />
+</p>
+
+<br clear="left"/>
+<br/>
+
+---
+
 <div align="center">
   <img width="100%" src="https://github.com/DanielAlmeid0/DanielAlmeid0/blob/main/Matrix.gif?raw=true" alt="Matrix Footer Banner" />
 </div>
