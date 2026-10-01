@@ -1,23 +1,3 @@
-<!-- MasterHead -->
-<a href="https://github.com/DanielAlmeid0/DanielAlmeid0/blob/main/bannerverde.gif?raw=true" target="_blank">
-  <img width="100%" src="https://github.com/DanielAlmeid0/DanielAlmeid0/blob/main/bannerverde.gif?raw=true" alt="Banner Cyberpunk Verde"/>
-</a>
-
-<div align="center">
-  <!-- Profile Views -->
-  <a href="https://github.com/DanielAlmeid0" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=DanielAlmeid0&label=Profile%20views&color=4169E1&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views Badge" /></a>
-
-  <!-- Total Stars -->
-  <a href="https://github.com/DanielAlmeid0?tab=repositories&sort=stargazers" target="_blank">
-    <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/DanielAlmeid0?style=for-the-badge&label=Stars&color=51A2DA&logo=github" /></a>
-
-  <!-- Followers -->
-  <a href="https://github.com/DanielAlmeid0?tab=followers" target="_blank">
-    <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/DanielAlmeid0?style=for-the-badge&label=Followers&color=007396&logo=github" /></a>
-</div>
-
-<br>
 
 <img align="left" alt="Computer Desk Cyberpunk" width="480" src="https://github.com/DanielAlmeid0/DanielAlmeid0/blob/main/35d554f31bd87bf3f5097830af38332b.gif?raw=true" style="padding-right: 20px;" />
 
